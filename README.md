@@ -63,9 +63,8 @@ ADEGuard/
 ├── notebooks/
 │   ├── 01_data_merging_cleaning.ipynb    # Merging 5 years of VAERS data
 │   ├── 02_data_preparation.ipynb         # Make the data clean and ready for model
-│   ├── 02_baseline_model.ipynb           # TF-IDF & Logistic Regression baseline
-│   ├── 03_annotation_prep.ipynb          # Data sampling and labeling setup
-│   └── 
+│   ├── 03_baseline_model.ipynb           # TF-IDF & Logistic Regression baseline
+│   └── 04_annotation_prep.ipynb          # Data sampling and labeling setup  
 ├── src/
 │   ├── preprocessing/                    # Data cleaning and COVID-19 filtering
 │   ├── training/                         # NER and classification training pipelines

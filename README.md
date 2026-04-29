@@ -1,4 +1,4 @@
-# ADEGuard 🛡️
+# ADEGuard 🛡️ (Working on this project)
 ### AI-Powered Adverse Drug Event Detection & Severity Mapping
 
 ADEGuard is an end-to-end AI/ML system designed to detect Adverse Drug Events (ADEs) from VAERS (Vaccine Adverse Event Reporting System) reports. Since the COVID-19 pandemic, mass vaccinations have led to a significant rise in adverse event reporting. This project leverages Natural Language Processing (NLP) to automatically extract drug and symptom information and classify the severity of reactions — transforming unstructured clinical narratives into actionable safety insights.

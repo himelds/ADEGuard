@@ -124,15 +124,4 @@ The processed output will be saved to `data/processed/` and is ready for use in 
 
 ---
 
-## Acknowledgments
-
-This project was developed as part of the **Codebasics Resume Project Challenge** for **CureviaAI**.
-
-Special thanks to:
-- **Tony Sharma** (CIO, CureviaAI) — for the project vision and problem statement.
-- **The CDC and FDA** — for maintaining the VAERS public dataset.
-- **The Codebasics Team** — for providing resources and challenge infrastructure.
-
----
-
 > **Disclaimer:** ADEGuard is a research and demonstration project. It is not intended for clinical decision-making or regulatory submission without proper validation by qualified professionals.
